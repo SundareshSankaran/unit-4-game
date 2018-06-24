@@ -1,0 +1,15 @@
+    body {
+        background-image: url("../images/game-bg-tile.png");
+        background-color: cyan;
+    }
+    div {
+        border: 2px;
+        border-color:red;
+    }
+
+    #gamescore {
+        font-family: Tahoma;
+        font-size: 14px;
+        background-color:beige;
+
+    }
